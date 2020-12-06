@@ -378,7 +378,7 @@ map=new Map(sizex,sizey);
 
 document.addEventListener('keydown', logKey);
 
-document.addEventListener('keyup', function(){ speed=400; dir='d';});
+//document.addEventListener('keyup', function(){ speed=400; dir='d';});
 
 function enemy_list_check(){
   
